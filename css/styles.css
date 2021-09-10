@@ -47,7 +47,9 @@ a:hover{
   position: relative;
   padding-top: 100px;
 }
-
+.profile-picture{
+  width: 25%;
+}
 span {
   text-decoration: underline;
 }
